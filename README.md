@@ -10,5 +10,5 @@ I started today with conditional statements and Booleans. If else was the first 
 Lastly it was all about arrays, lists and loops. New points here for me were 1) Loopong through the elements and the indexes at the same time 2) Stepping backward using downTo in a loop 3) Repeat Loops.
 
 # Day 3:
-Today was a long day of playing with functions. Starting from main() and moving to much complicated one's like passing an arguement or parameter in a function or passing a function in a function. Learnt how to make functions compact and how to create a filter of both eager and lazy types. Used _Sequence()_ and _asSequence_ for the same. <br>
+Today was a long day of playing with functions. Starting from main() and moving to much complicated one's like passing an arguement or parameter in a function or passing a function in a function. Learnt how to make functions compact and how to create a filter of both eager and lazy types. Used _Sequence()_ and _asSequence_() for the same. <br>
 Used the map() function which helps to perform a simple transformation on each element in the sequence. Lastly it was all about lambdas and higher order functions (a function that takes two arguments).
