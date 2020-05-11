@@ -12,3 +12,6 @@ Lastly it was all about arrays, lists and loops. New points here for me were 1) 
 # Day 3:
 Today was a long day of playing with functions. Starting from main() and moving to much complicated one's like passing an arguement or parameter in a function or passing a function in a function. Learnt how to make functions compact and how to create a filter of both eager and lazy types. Used _Sequence()_ and _asSequence_() for the same. <br>
 Used the map() function which helps to perform a simple transformation on each element in the sequence. Lastly it was all about lambdas and higher order functions (a function that takes two arguments).
+
+# Day 4:
+Today I started with the classes. Studying all the parameters of classes deeply, moved onto class constructers, INIT, secondary constructors, property getter and setter. Next it was the visibly modifiers i.e Public, Protected, Private and Internal. Ended the day with subclasses and and inheritance. 
