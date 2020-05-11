@@ -14,4 +14,4 @@ Today was a long day of playing with functions. Starting from main() and moving 
 Used the map() function which helps to perform a simple transformation on each element in the sequence. Lastly it was all about lambdas and higher order functions (a function that takes two arguments).
 
 # Day 4:
-Today I started with the classes. Studying all the parameters of classes deeply, moved onto class constructers, INIT, secondary constructors, property getter and setter. Next it was the visibly modifiers i.e Public, Protected, Private and Internal. Ended the day with subclasses and and inheritance. 
+Today I started with the classes. Studying all the parameters of classes deeply, moved onto class constructers, INIT, secondary constructors, property getter and setter. Next it was the visibly modifiers i.e Public, Protected, Private and Internal. Ended the day with subclasses and and inheritance. Lastly it was the use of override property in many examples.
