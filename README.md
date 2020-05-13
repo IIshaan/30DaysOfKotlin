@@ -18,3 +18,6 @@ Today I started with the classes. Studying all the parameters of classes deeply,
 
 # Day 5:
 Function part-2 was completed today. Starting from abstract classes and its subclasses and Interfaces, moved on to interface delegation to add functionality to a class. Made it more complicated with two classes and two interfaces with delegation. Next I created a data class which is similar to struct in other languages.<br> Used destructuring and lastly it was Singleton class, creating an enum and ended with an example of Sealed class. This finally made me finish Functions today.
+
+# Day 6:
+Today I learned about collections, constants, and got a taste of the power of extension functions and properties. Started with Pairs and triples and many useful functions for List, such as reversed(), contains(), and subList(). Used Hashmap() to map the keys to values and got to know compile-time constants using the _const_ keyword. Also got to know about companion keyword adn lastly ending with Extension functions and properties.
