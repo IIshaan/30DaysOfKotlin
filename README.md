@@ -21,3 +21,6 @@ Function part-2 was completed today. Starting from abstract classes and its subc
 
 # Day 6:
 Today I learned about collections, constants, and got a taste of the power of extension functions and properties. Started with Pairs and triples and many useful functions for List, such as reversed(), contains(), and subList(). Used Hashmap() to map the keys to values and got to know compile-time constants using the _const_ keyword. Also got to know about companion keyword and lastly ending with Extension functions and properties.
+
+# Day 7: 
+Today I focused on Generics in Kotlin. Learned to create generic classes to make code more flexible, adding generic constraints to limit the types used with generics. Used *in* and *out* to restrict types being passed into or returned from classes. Went through Generic functions and methods ending with generic extension functions and Reified types to run the generics into run time instead of compile time.
