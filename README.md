@@ -24,3 +24,6 @@ Today I learned about collections, constants, and got a taste of the power of ex
 
 # Day 7: 
 Today I focused on Generics in Kotlin. Learned to create generic classes to make code more flexible, adding generic constraints to limit the types used with generics. Used *in* and *out* to restrict types being passed into or returned from classes. Went through Generic functions and methods ending with generic extension functions and Reified types to run the generics into run time instead of compile time.
+
+# Day 8:
+Today I learnt to use annotations to specify things to the compiler and labeled breaks to let the code exit from inside nested loops. Laerned more about lambdas and higher order functions again. Also used _inline_ function very much. Got a little bit familiar with this new method SAM, Single Abstract Method, a common pattern, which was made simpler with lambdas. It was an end of all the basic stuff of Kotlin. 
