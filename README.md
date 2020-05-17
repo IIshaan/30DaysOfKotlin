@@ -27,3 +27,9 @@ Today I focused on Generics in Kotlin. Learned to create generic classes to make
 
 # Day 8:
 Today I learnt to use annotations to specify things to the compiler and labeled breaks to let the code exit from inside nested loops. Laerned more about lambdas and higher order functions again. Also used _inline_ function very much. Got a little bit familiar with this new method SAM, Single Abstract Method, a common pattern, which was made simpler with lambdas. It was an end of all the basic stuff of Kotlin. 
+
+# Day 9: 
+Switched to Android Studio today. Learnt about all the files in an empty app and what all it means. Downloaded a virtual device too and set it up. Didn't do too much today and also ran Hello World successfully.
+
+# Day 10: 
+Made a rolling dice app in which whenever clicked on "Roll", it changed the the dice number randomly. Spent almost 3 hours on some very lame errors which defintiely helped me to understand how each file and each code is running altogether. I changed stuff mostly in AndroidManifest.xml, activity_main.xml, MainActivity.kt and strings.xml. Enjoyed today alot and realized that I have a long way to go in Kotlin :)
