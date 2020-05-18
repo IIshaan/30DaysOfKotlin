@@ -33,3 +33,6 @@ Switched to Android Studio today. Learnt about all the files in an empty app and
 
 # Day 10: 
 Made a rolling dice app in which whenever clicked on "Roll", it changed the the dice number randomly. Spent almost 3 hours on some very lame errors which defintiely helped me to understand how each file and each code is running altogether. I changed stuff mostly in AndroidManifest.xml, activity_main.xml, MainActivity.kt and strings.xml. Enjoyed today alot and realized that I have a long way to go in Kotlin :)
+
+# Day 11:
+Improved the rolling dice app today. Used the images instead of printing only the numbers. Also Learnt about API levels, its compatibility and _lateinit()_ keyword too. Next I also learnt how to change the launcher icon in Android Studio. 
