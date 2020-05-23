@@ -36,3 +36,18 @@ Made a rolling dice app in which whenever clicked on "Roll", it changed the the 
 
 # Day 11:
 Improved the rolling dice app today. Used the images instead of printing only the numbers. Also Learnt about API levels, its compatibility and _lateinit()_ keyword too. Next I also learnt how to change the launcher icon in Android Studio. 
+
+# Day 12:
+Worked with Linear Layout and learnt how to add a button. Linear layout is a layout that arranges other views either horizontally in a single column or vertically in a single row. Now I'll go a little slow for a while because of my semester exams starting from today.
+
+# Day 13:
+Today I studied about constraint layout for building flexible and efficient layouts and data binding library that allows us to bind UI components in our layouts to data sources in our app using a declarative format rather than programmatically.
+
+# Day 14:
+Went through fragment tag which is used to edit the app's UI and also Safe Args plugin, NavDirection classes, intent action for sharing, back and up button and lastly the navigation drawer. All I got to know is that more I'll practice these methods, more easy it'll be for me to understand.
+
+# Day 15:
+Activity lifecycle was the main topic for me today. It is a set of states through which an activity migrates. Other thing I learnt today was use of Timber logging and got to know how it is better than the normal log.
+
+# Day 16:
+Learnt more about the lifecycle library in depth and created a lifecycle-aware class. Got the overview about the Android Debug Bridge (adb), a command-line tool that lets us send instructions to emulators and devices attached to your computer. 
