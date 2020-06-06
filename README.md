@@ -75,13 +75,14 @@ Named Parameters
 Inheritance
 
 End of my journey of Kotlin!!
-
-fun funfun() {
-  fun haveFun() {
-      fun haveMoreFun() {
-          haveFun()
-      }
-      haveMoreFun()
-  }
- }
-fun funfun()
+<pre>
+fun funfun() { <br />
+  fun haveFun() { <br />
+      fun haveMoreFun() { <br />
+          haveFun() <br />
+      } <br />
+      haveMoreFun() <br />
+  } <br />
+ } <br />
+fun funfun() <br />
+</pre>
