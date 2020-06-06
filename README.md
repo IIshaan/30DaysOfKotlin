@@ -51,3 +51,37 @@ Activity lifecycle was the main topic for me today. It is a set of states throug
 
 # Day 16:
 Learnt more about the lifecycle library in depth and created a lifecycle-aware class. Got the overview about the Android Debug Bridge (adb), a command-line tool that lets us send instructions to emulators and devices attached to your computer. 
+
+# Day 17-18:
+Implemented the factory method design pattern, which is a creational pattern. Used ViewModelFactory Interface, also ViewModelProvider.Factory is an interface we can use to create a ViewModel object. Also resolved "Guess The Word" app's lifecycle issue using onSaveInstanceState() callback.
+
+# Day 19-20: 
+Worked on LiveData, an observable data holder class that is lifecycle-aware, one of the Android Architecture Components. Learnt to add it by changing the type of the data variables in ViewModel to LiveData or MutableLiveData, encapsulated it by using private MutableLiveData inside the ViewModel and return a LiveData backing property outside the ViewModel, and also got to know about Observable LiveData using the observe() method.
+
+# Day 21-22:
+Today I went through ViewModel data binding, adding LiveData to it, and String format for Data binding. This will be the last day of my learning from codelabs as from tomorrow I'll move on to making some project. 
+
+First Google Codelab was pretty good but gotta need to work on the 2nd Codelab.
+
+# Day 23-30: 
+Made a Calculator app using Kotlin and Android Studio.
+https://github.com/IIshaan/MyCalC 
+
+Some of the concepts I used in it are -
+
+Fragment OnCreate()
+String Templates
+Named Parameters
+Inheritance
+
+End of my journey of Kotlin!!
+
+fun funfun() {
+  fun haveFun() {
+      fun haveMoreFun() {
+          haveFun()
+      }
+      haveMoreFun()
+  }
+ }
+fun funfun()
