@@ -70,9 +70,9 @@ https://github.com/IIshaan/MyCalC
 Some of the concepts I used in it are -
 
 Callback method </br>
-String Templates
-Named Parameters
-Extension Function
+String Templates </br>
+Named Parameters </br>
+Extension Function </br>
 
 End of my journey of Kotlin!!
 <pre>
