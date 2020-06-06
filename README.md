@@ -69,10 +69,10 @@ https://github.com/IIshaan/MyCalC
 
 Some of the concepts I used in it are -
 
-Fragment OnCreate()
+Callback method </br>
 String Templates
 Named Parameters
-Inheritance
+Extension Function
 
 End of my journey of Kotlin!!
 <pre>
